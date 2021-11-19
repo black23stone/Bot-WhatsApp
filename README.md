@@ -12,7 +12,7 @@
 </div>
 
 # Join Group
-[![Group Bot](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JFqb84LyIhfJJxFsKc3apI)
+[![Group Bot](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/G1PlSE3VR6e99hmMaxzpkg)
 
 # ONLY RUN RAILWAY
 [`railway.app`](https://railway.app/new/github)
